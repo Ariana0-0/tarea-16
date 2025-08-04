@@ -1,0 +1,7 @@
+tarea 16
+
+  1. ¿Qué es un sistema de control de versiones y por qué es útil en proyectos colaborativos?
+  2. Explica los conceptos: repositorio, branch, merge y conflictos de código.
+  3. ¿Qué diferencia hay entre un sistema centralizado (SVN) y uno distribuido (Git)?
+  4. Describe un flujo de trabajo típico con Git en un equipo (incluir creación de ramas, pull requests, y fusiones).
+
